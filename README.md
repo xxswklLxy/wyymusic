@@ -23,6 +23,8 @@ npm install --save axios
 ```
 npm install vue-aplayer -s
 ```
+
+```
 npm i element-ui -S
 ```
 
